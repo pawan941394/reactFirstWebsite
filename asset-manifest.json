@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/reactFirstWebsite/static/css/main.c9c5e4bd.chunk.css",
+    "main.js": "/reactFirstWebsite/static/js/main.d5adc0c5.chunk.js",
+    "main.js.map": "/reactFirstWebsite/static/js/main.d5adc0c5.chunk.js.map",
+    "runtime-main.js": "/reactFirstWebsite/static/js/runtime-main.3538419a.js",
+    "runtime-main.js.map": "/reactFirstWebsite/static/js/runtime-main.3538419a.js.map",
+    "static/js/2.9fd9d270.chunk.js": "/reactFirstWebsite/static/js/2.9fd9d270.chunk.js",
+    "static/js/2.9fd9d270.chunk.js.map": "/reactFirstWebsite/static/js/2.9fd9d270.chunk.js.map",
+    "index.html": "/reactFirstWebsite/index.html",
+    "static/css/main.c9c5e4bd.chunk.css.map": "/reactFirstWebsite/static/css/main.c9c5e4bd.chunk.css.map",
+    "static/js/2.9fd9d270.chunk.js.LICENSE.txt": "/reactFirstWebsite/static/js/2.9fd9d270.chunk.js.LICENSE.txt",
+    "static/media/bank-notes-941246_1280.89c88b4c.webp": "/reactFirstWebsite/static/media/bank-notes-941246_1280.89c88b4c.webp",
+    "static/media/brian-wangenheim-oP92PpqgU-4-unsplash.e8ae0b33.webp": "/reactFirstWebsite/static/media/brian-wangenheim-oP92PpqgU-4-unsplash.e8ae0b33.webp",
+    "static/media/crypto-currency-3130381_1920.c12278dc.webp": "/reactFirstWebsite/static/media/crypto-currency-3130381_1920.c12278dc.webp",
+    "static/media/fPlatform.44f2a32f.webp": "/reactFirstWebsite/static/media/fPlatform.44f2a32f.webp",
+    "static/media/fRemittate.21cd7132.webp": "/reactFirstWebsite/static/media/fRemittate.21cd7132.webp",
+    "static/media/finical.78646bed.webp": "/reactFirstWebsite/static/media/finical.78646bed.webp",
+    "static/media/finicalApps_py5WdTi.c006f4bb.webp": "/reactFirstWebsite/static/media/finicalApps_py5WdTi.c006f4bb.webp",
+    "static/media/plat.68ce7e3a.webp": "/reactFirstWebsite/static/media/plat.68ce7e3a.webp",
+    "static/media/transfersolu.0923bf42.webp": "/reactFirstWebsite/static/media/transfersolu.0923bf42.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3538419a.js",
+    "static/js/2.9fd9d270.chunk.js",
+    "static/css/main.c9c5e4bd.chunk.css",
+    "static/js/main.d5adc0c5.chunk.js"
+  ]
+}
